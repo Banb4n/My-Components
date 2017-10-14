@@ -1,0 +1,22 @@
+body {
+  background-color: #252424; }
+
+.titlePage {
+  color: lightgrey; }
+
+.headerPage {
+  padding-bottom: 40px; }
+
+.navbar.navbar-inverse {
+  border-bottom: 0.01px solid grey; }
+
+.container-components {
+  min-height: 71vh;
+  padding-top: 50px; }
+
+.footerPage {
+  background-color: dimgrey;
+  color: lightblue;
+  padding: 30px 5px 50px 5px; }
+
+/*# sourceMappingURL=main.css.map */
